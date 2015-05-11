@@ -1,4 +1,4 @@
-This package provides a simple way to send/receive messages on a websocket connection by using Go channels.
+This package wraps the [Gorilla Websocket library](https://github.com/gorilla/websocket) to provide very simple io over a websocket connection using Go channels.
 
 ### Install
 
